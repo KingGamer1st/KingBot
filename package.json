@@ -1,0 +1,19 @@
+{
+  "name": "kingbot",
+  "version": "1.0.0",
+  "description": "Custom Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "King",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js#indev",
+    "moment": "^2.22.1",
+    "nodemon": "^1.17.5"
+  },
+  "engines": {
+    "node": "6.4.0"
+  }
+}
